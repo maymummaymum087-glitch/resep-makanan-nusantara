@@ -1,0 +1,6 @@
+{
+  "name": "Nusantara Recipe",
+  "description": "Aplikasi resep makanan khas daerah Indonesia tanpa login dengan fitur favorit, daftar belanja, pencarian daerah, dan panduan memasak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
